@@ -1,2 +1,2 @@
 # WebUI_Draw_Tutorial
-Some prompts about WebUI.
+Read webui_website.md for helps.
